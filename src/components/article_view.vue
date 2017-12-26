@@ -1,5 +1,5 @@
 <template>
-    <div id="article">
+    <div id="article" class="container">
 
         <!-- Title & Author -->
         <h1 class="title">
@@ -14,7 +14,7 @@
 
         v-on:page="pageChange"
         v-bind:page="page"
-        v-bind:pages="pages">>
+        v-bind:pages="pages">
         <!-- Show separate page -->
         </component>
     </div>
@@ -74,6 +74,7 @@
 <style scoped>
     #article {
         padding: 10px;
+        background-color: aqua;
     }
 
     h1, h2, p{
