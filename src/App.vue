@@ -124,7 +124,7 @@ export default {
 
                 {
                     identifier: 'SubUniverses',
-                    title: 'Sub Universes',
+                    title: 'Sub-Universes',
                     author: '',
                     content: '',
                     icon: 'fa-address-book',
@@ -148,7 +148,7 @@ export default {
                                 },
 
                                 {
-                                    identifier: 'JonathanPan', title: 'Jonathan Pan', author: '', content: '',
+                                    identifier: 'JonathanPan', title: 'Three Eyed Warrior', author: '', content: '',
                                     icon: 'fa-user', has_own_component: true, active: false, primary_page: false, search_display: false,
                                 },
 
@@ -158,7 +158,7 @@ export default {
                                 },
 
                                 {
-                                    identifier: 'LewisPatton', title: 'Lewis Patton', author: '', content: '',
+                                    identifier: 'MajorPatton', title: 'Major Patton', author: '', content: '',
                                     icon: 'fa-user', has_own_component: true, active: false, primary_page: false, search_display: false,
                                 },
                             ]

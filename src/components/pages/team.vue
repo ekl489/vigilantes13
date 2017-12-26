@@ -162,7 +162,7 @@
     </div>
 
                         <div class="content">
-                            Co-creator, writer
+                            Co-creator, advisor, writer
     </div>
     </div>
     </div>

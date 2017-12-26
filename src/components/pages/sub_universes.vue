@@ -1,6 +1,6 @@
 <template>
     <div id="sub-universes">
-        Include links to each subpage despite being redundent.
+        Include links to each subpage despite being redundent.  - Salty???
     </div>
 </template>
 

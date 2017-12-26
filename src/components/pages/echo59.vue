@@ -1,7 +1,6 @@
 <template>
     <div id="echo59" class="content">
-    
-    <div class="page page-echo-echo" style="display: none">
+        <div class="page page-echo-echo" style="display: none">
                             <nav class="navbar">
                                 <div class="navbar-brand">
                                     <h1 class="title">Echo 59 - Siena Mitchell</h1>
@@ -114,9 +113,8 @@
                                         </div>
                                     </article>
                                 </div>
-                            </div>
-        
-    </div>
+             </div>
+        </div>
 </template>
 
 <script>
