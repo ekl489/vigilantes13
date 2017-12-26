@@ -74,7 +74,6 @@
 <style scoped>
     #article {
         padding: 10px;
-        background-color: aqua;
     }
 
     h1, h2, p{

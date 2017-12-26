@@ -340,7 +340,6 @@ export default {
 <style scoped>
     .container{
         margin: 10px;
-        background-color: aquamarine;
         width: 100%;
     }
 </style>
