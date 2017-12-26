@@ -130,8 +130,8 @@ export default {
                     content: '',
                     icon: 'fa-flag',
                     has_own_component: true,
-                    active: false,
-                    primary_page: true,
+                    active: true,
+                    primary_page: false,
                 }, // Territory
 
                 {
@@ -226,8 +226,8 @@ export default {
                     content: '',
                     icon: 'fa-picture-o',
                     has_own_component: true,
-                    active: false,
-                    primary_page: true,
+                    active: true,
+                    primary_page: false,
                 }, // Gallery
 
             ],

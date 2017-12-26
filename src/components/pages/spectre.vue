@@ -112,11 +112,11 @@
         data () {
             return {
                 home: {
-                    identifier: 'Home',
-                    title: 'Home',
+                    identifier: 'Spectre',
+                    title: 'Silver Spectre - Hugo Johannsen',
                     author: '',
                     content: '',
-                    icon: 'fa-home',
+                    icon: 'fa-user',
                     has_own_component: true,
                     active: true,
                     primary_page: true,

@@ -106,11 +106,11 @@
         data () {
             return {
                 home: {
-                    identifier: 'Home',
-                    title: 'Home',
+                    identifier: 'Echo59',
+                    title: 'Echo 59 - Siena Mitchell',
                     author: '',
                     content: '',
-                    icon: 'fa-home',
+                    icon: 'fa-user',
                     has_own_component: true,
                     active: true,
                     primary_page: true,
