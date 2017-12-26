@@ -77,7 +77,7 @@ export default {
                     active: true,
                     primary_page: true,
                 }, // Quiz
-                
+
                 {
                     identifier: 'TheTeam',
                     title: 'The Team',
@@ -110,8 +110,8 @@ export default {
                     active: true,
                     primary_page: true,
                 }, // Update Log
-                
-                
+
+
                 {
                     identifier: 'WorldHistory',
                     title: 'World History',
@@ -133,7 +133,7 @@ export default {
                     active: false,
                     primary_page: true,
                 }, // Territory
-                
+
                 {
                     identifier: 'SubUniverses',
                     title: 'Sub-Universes',
@@ -229,7 +229,7 @@ export default {
                     active: false,
                     primary_page: true,
                 }, // Gallery
-                
+
             ],
 
             page: {},
