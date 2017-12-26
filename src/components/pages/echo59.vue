@@ -1,20 +1,5 @@
 <template>
     <div id="echo59" class="content">
-        <div class="page page-echo-echo" style="display: none">
-                            <nav class="navbar">
-                                <div class="navbar-brand">
-                                    <h1 class="title">Echo 59 - Siena Mitchell</h1>
-                                </div>
-                                <div class="navbar-end">
-                                    <nav class="breadcrumb is-right nav-breadcrumb">
-                                        <ul>
-                                            <li><a class=" link-page link-page-heroes"><i class="fa fa-address-book-o" aria-hidden="true"></i>&nbsp;Sub-Universes</a></li>
-                                            <li><a class=" link-page link-page-echo"><i class="fa fa-address-book-o" aria-hidden="true"></i>&nbsp;Echo 59</a></li>
-                                            <li class="is-active"><a class=" link-page link-page-echo-echo"><i class="fa fa-user" aria-hidden="true"></i>&nbsp;Echo 59</a></li>
-                                        </ul>
-                                    </nav>
-                                </div>
-                            </nav>
                             <div class="columns">
                                 <div class="column is-two-thirds-desktop">
 
