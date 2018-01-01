@@ -7,12 +7,14 @@ import router from './router'
 //CSS
 //import '../node_modules/bulma/css/bulma.css'
 import '../node_modules/bulmaswatch/lux/bulmaswatch.min.css'
+
+import 'https://use.fontawesome.com/6fe95d9c79.js'
 import '../node_modules/font-awesome/css/font-awesome.min.css'
 
 // custom
 //https://www.npmjs.com/package/string-similarity
 var stringSimilarity = require('string-similarity')
-window.$ = window.jQuery = require('jquery')
+//window.$ = window.jQuery = require('jquery')
 
 Vue.config.productionTip = false
 
