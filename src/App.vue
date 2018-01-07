@@ -39,15 +39,12 @@ export default {
 
     data () {
 
-        /*
-            - possible bug: pages may require the search_display property
-        */
-
         return {
             pages: [
                 {
                     identifier: 'Home',
                     title: 'Home',
+                    group: 'General',
                     author: '',
                     content: '',
                     icon: 'fa-home',
@@ -59,6 +56,7 @@ export default {
                 {
                     identifier: 'Podcasts',
                     title: 'Podcasts',
+                    group: 'General',
                     author: '',
                     content: '',
                     icon: 'fa-podcast',
@@ -70,6 +68,7 @@ export default {
                 {
                     identifier: 'Quiz',
                     title: 'Quiz',
+                    group: 'General',
                     author: '',
                     content: '',
                     icon: 'fa-question',
@@ -81,6 +80,7 @@ export default {
                 {
                     identifier: 'TheTeam',
                     title: 'The Team',
+                    group: 'General',
                     author: '',
                     content: '',
                     icon: 'fa-pencil-square',
@@ -92,6 +92,7 @@ export default {
                 {
                     identifier: 'DiscoverMore',
                     title: 'Discover More',
+                    group: 'General',
                     author: '',
                     content: '',
                     icon: 'fa-info-circle',
@@ -103,6 +104,7 @@ export default {
                 {
                     identifier: 'UpdateLog',
                     title: 'Update Log',
+                    group: 'General',
                     author: '',
                     content: '',
                     icon: 'fa-cog',
@@ -115,6 +117,7 @@ export default {
                 {
                     identifier: 'WorldHistory',
                     title: 'World History',
+                    group: 'Vigilantes',
                     author: '',
                     content: '',
                     icon: 'fa-university',
@@ -126,6 +129,7 @@ export default {
                 {
                     identifier: 'Territory',
                     title: 'Territory',
+                    group: 'Vigilantes',
                     author: '',
                     content: '',
                     icon: 'fa-flag',
@@ -137,6 +141,7 @@ export default {
                 {
                     identifier: 'SubUniverses',
                     title: 'Sub-Universes',
+                    group: 'Vigilantes',
                     author: '',
                     content: '',
                     icon: 'fa-address-book',
@@ -204,13 +209,22 @@ export default {
                 }, // Sub Universes
 
                 {
-                    identifier: 'Timeline', title: 'Timeline', author: '', content: '', icon: 'fa-clock-o',
-                    has_own_component: true, active: false, primary_page: true, search_display: false
+                    identifier: 'Timeline',
+                    title: 'Timeline',
+                    group: 'Vigilantes',
+                    author: '',
+                    content: '',
+                    icon: 'fa-clock-o',
+                    has_own_component: true,
+                    active: false,
+                    primary_page: true,
+                    search_display: false
                 }, // Timeline
 
                 {
                     identifier: 'Storylines',
                     title: 'Storylines',
+                    group: 'Vigilantes',
                     author: '',
                     content: '',
                     icon: 'fa-book',
@@ -222,6 +236,7 @@ export default {
                 {
                     identifier: 'Gallery',
                     title: 'Gallery',
+                    group: 'General',
                     author: '',
                     content: '',
                     icon: 'fa-picture-o',

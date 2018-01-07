@@ -1,6 +1,6 @@
 <template>
     <div id="podcasts" class="content">
-        <img src="img/banners/podcast.jpg"><br><br>
+        <img src="../../assets/podcast.jpg"><br><br>
         A series of podcasts discussing the world of Vigilantes with the creators and characters.
 
         <br><br>
