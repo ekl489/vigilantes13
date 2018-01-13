@@ -64,7 +64,7 @@
             },
 
             pageChange: function(value){
-                this.setPage(value) // show the correct page
+                this.setPage(value)
             },
         },
 
